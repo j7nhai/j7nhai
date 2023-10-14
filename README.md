@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a big data development engineer.
+- 🌱 I’m currently learning Apache Spark.
+- 👯 I’m looking to collaborate on anything related to Apache Spark.
+- 💬 Ask me about Apache Spark, Apache Livy.
+- 😄 Pronouns: him/his/he.
+- ⚡ Fun fact: love to meditation.
+- 🍜 Love food: eggplant🍆.
