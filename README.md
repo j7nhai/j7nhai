@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to Apache Spark.
 - 💬 Ask me about Apache Spark, Apache Livy.
 - 😄 Pronouns: him/his/he.
-- ⚡ Fun fact: love to meditation.
+- ⚡ Fun fact: love to meditate.
 - 🍜 Love food: eggplant🍆.
-- ⭐️ motto: be slow.
+- ⭐️ Motto: be slow.
+- 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days)
