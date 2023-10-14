@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/his/he.
 - ⚡ Fun fact: love to meditation.
 - 🍜 Love food: eggplant🍆.
+- ⭐️ motto: be slow.
