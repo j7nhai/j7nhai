@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 🍜 Love food: eggplant🍆.
 - ⭐️ Motto: be slow.
 - 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days)
+- 🌟 Lifestyle: minimalism, digital minimalism, alcohol-free.
