@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - ⭐️ Motto: be slow.
 - 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days)
 - 🌟 Lifestyle: minimalism, digital minimalism, alcohol-free.
+
+![j7nhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=j7nhai)
