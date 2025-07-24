@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a big data development engineer.
-- 🌱 I’m currently learning Apache Spark.
-- 👯 I’m looking to collaborate on anything related to Apache Spark.
-- 💬 Ask me about Apache Spark, Apache Livy.
+- 🔭 I’m currently working as a big data development engineer
+- 🌱 I’m currently learning Apache Spark and Apache Gluten
+- 👯 I’m looking to collaborate on anything related to Apache Spark
+- 💬 Ask me about Apache Spark, Apache Livy
 - 😄 Pronouns: him/his/he.
-- ⚡ Fun fact: love to meditate.
-- 🍜 Love food: eggplant🍆.
-- ⭐️ Motto: be slow.
-- 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days)
-- 🌟 Lifestyle: minimalism, digital minimalism, alcohol-free.
+- ⚡ Fun fact: love to meditate
+- 🍜 Love food: eggplant🍆
+- ⭐️ Motto: be slow
+- 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days), or WeChat: JinhaiChen_
+- 🌟 Lifestyle: minimalism, digital minimalism
 
 <!-- ![j7nhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=j7nhai) -->
