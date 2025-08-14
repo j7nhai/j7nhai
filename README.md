@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⭐️ Motto: be slow
 - 📫 How to reach me: j7nhai.chen@gmail.com (reply within 14 days), or WeChat: JinhaiChen_
 - 🌟 Lifestyle: minimalism, digital minimalism
-- 🏠 Blog: [Here](j7nhai.github.io)
+- 🏠 Blog: j7nhai.github.io
 
 <!-- ![j7nhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=j7nhai) -->
